@@ -1,0 +1,15 @@
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\Rent-a-Car-App-Factory.csproj.AssemblyReference.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\Rent-a-Car-App-Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\Rent-a-Car-App-Factory.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\Rent-a-Car-App-Factory.AssemblyInfo.cs
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\Rent-a-Car-App-Factory.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\bin\Debug\net6.0\Rent-a-Car-App-Factory.exe
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\bin\Debug\net6.0\Rent-a-Car-App-Factory.deps.json
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\bin\Debug\net6.0\Rent-a-Car-App-Factory.runtimeconfig.json
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\bin\Debug\net6.0\Rent-a-Car-App-Factory.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\bin\Debug\net6.0\Rent-a-Car-App-Factory.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\Rent-a-Car-App-Factory.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\refint\Rent-a-Car-App-Factory.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\Rent-a-Car-App-Factory.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\Rent-a-Car-App-Factory.genruntimeconfig.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\Rent-a-Car-App-Factory\Rent-a-Car-App-Factory\obj\Debug\net6.0\ref\Rent-a-Car-App-Factory.dll
